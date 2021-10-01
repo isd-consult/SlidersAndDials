@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>QML/Sliders/SilverThumb/SilverThumb.qml</file>
+        <file>QML/Sliders/Flat/Flat.qml</file>
+        <file>Assets/Sliders/Flat/Max.png</file>
+        <file>Assets/Sliders/Flat/Min.png</file>
+        <file>Assets/Sliders/SilverThumb/Background.png</file>
+        <file>Assets/Sliders/SilverThumb/Handle.png</file>
+        <file>Assets/Sliders/HiTech/Background.png</file>
+        <file>Assets/Sliders/HiTech/Max.png</file>
+        <file>Assets/Sliders/HiTech/Min.png</file>
+        <file>Assets/Sliders/HiTech/Step.png</file>
+        <file>QML/Sliders/HiTech/HiTech.qml</file>
+        <file>QML/Dials/GreyKnob/GreyKnob.qml</file>
+        <file>Assets/Dials/GreyKnob/Background.png</file>
+        <file>Assets/Dials/GreyKnob/Handle.png</file>
+        <file>QML/Dials/FlatDial/FlatDial.qml</file>
+        <file>Assets/Dials/FlatDial/Handle.png</file>
+        <file>QML/Dials/BlueHighTech/BlueHighTech.qml</file>
+        <file>Assets/Dials/BlueHighTech/Background.png</file>
+        <file>QML/Sliders/Flat/Flat_Vertical.qml</file>
+        <file>QML/Sliders/SilverThumb/SilverThumb_Vertical.qml</file>
+        <file>QML/Sliders/HiTech/HiTech_Vertical.qml</file>
+        <file>Assets/Sliders/SilverThumb/Background_vertical.png</file>
+        <file>Assets/Sliders/HiTech/Step_vertical.png</file>
+        <file>Assets/Sliders/HiTech/Background_vertical.png</file>
+    </qresource>
+</RCC>
